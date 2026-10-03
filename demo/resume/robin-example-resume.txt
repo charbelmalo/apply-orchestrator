@@ -1,0 +1,6 @@
+ROBIN EXAMPLE (fictional demo candidate)
+Applied ML Engineer, Example Studio Co.
+robin.example@example.com · +1 555 0100 · Springfield
+
+This placeholder stands in for a real resume file (.pdf or .docx) in the demo.
+The mock driver only checks that the file exists before "attaching" it.

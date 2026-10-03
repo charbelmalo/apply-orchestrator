@@ -1,0 +1,10 @@
+{
+  "jobs": [
+    {"id": "a1", "title": "Applied AI Engineer", "location": "Remote (EMEA)", "team": "Agents",
+     "jobUrl": "https://jobs.example.com/lumen-orchard/a1"},
+    {"id": "a2", "title": "Software Engineering Intern", "location": "Remote", "team": "Platform",
+     "jobUrl": "https://jobs.example.com/lumen-orchard/a2"},
+    {"id": "a3", "title": "Senior ML Inference Engineer", "location": "New York, NY", "team": "Serving",
+     "jobUrl": "https://jobs.example.com/lumen-orchard/a3"}
+  ]
+}

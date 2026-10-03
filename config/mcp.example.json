@@ -1,0 +1,10 @@
+{
+  "_comment": "Example MCP wiring for the computer-use subagent. Copy into your agent host's MCP config (for Claude Code: .mcp.json in the project, or `claude mcp add`). Replace every <placeholder>. No secrets belong in this file.",
+  "mcpServers": {
+    "computer-use": {
+      "command": "<path-to-your-computer-use-mcp-server>",
+      "args": ["mcp"],
+      "env": {}
+    }
+  }
+}

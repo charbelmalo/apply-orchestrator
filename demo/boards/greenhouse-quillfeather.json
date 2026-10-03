@@ -1,0 +1,20 @@
+{
+  "jobs": [
+    {"id": 4401, "title": "Forward Deployed Engineer, Evaluation Tooling",
+     "location": {"name": "London, UK"},
+     "absolute_url": "https://boards.example.com/quillfeather/jobs/4401",
+     "departments": [{"name": "Applied AI"}]},
+    {"id": 4402, "title": "Research Scientist, Interpretability",
+     "location": {"name": "San Francisco, CA"},
+     "absolute_url": "https://boards.example.com/quillfeather/jobs/4402",
+     "departments": [{"name": "Research"}]},
+    {"id": 4403, "title": "Technical Program Manager, Model Evaluation",
+     "location": {"name": "London, UK"},
+     "absolute_url": "https://boards.example.com/quillfeather/jobs/4403",
+     "departments": [{"name": "Operations"}]},
+    {"id": 4404, "title": "Office Coordinator",
+     "location": {"name": "London, UK"},
+     "absolute_url": "https://boards.example.com/quillfeather/jobs/4404",
+     "departments": [{"name": "Workplace"}]}
+  ]
+}

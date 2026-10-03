@@ -1,0 +1,19 @@
+{
+  "_comment": "Simulated Greenhouse-style form for the mock driver. No quirks: this one passes the gate.",
+  "page_title": "Forward Deployed Engineer, Evaluation Tooling at Quillfeather Labs",
+  "confirmation": "Thank you for applying to Quillfeather Labs. We've received your application.",
+  "fields": [
+    {"id": "first_name", "label": "First Name", "required": true},
+    {"id": "last_name", "label": "Last Name", "required": true},
+    {"id": "email", "label": "Email", "required": true},
+    {"id": "phone", "label": "Phone", "required": true},
+    {"id": "resume", "label": "Resume/CV", "type": "file", "required": true},
+    {"id": "q_linkedin", "label": "LinkedIn Profile"},
+    {"id": "q_website", "label": "Website"},
+    {"id": "q_why", "label": "Why Quillfeather Labs?", "type": "textarea", "required": true},
+    {"id": "q_visa", "label": "Will you now or in the future require visa sponsorship?", "type": "select", "required": true},
+    {"id": "q_start", "label": "What is the earliest you could start?", "required": true},
+    {"id": "q_heard", "label": "How did you hear about us?"},
+    {"id": "cover", "label": "Cover Letter", "type": "textarea"}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "discovery": {
+    "threshold": 8,
+    "keyword_weights": {
+      "\\beval": 10,
+      "forward[- ]?deploy": 8,
+      "applied": 6,
+      "interpretab": 6,
+      "research engineer": 6,
+      "research scientist": 5,
+      "solutions? (architect|engineer)": 6,
+      "machine learning|ml engineer|\\bml\\b": 5,
+      "\\bagent": 5,
+      "\\brag\\b|retrieval": 4,
+      "inference|serving|latency": 5,
+      "data engineer": 4,
+      "platform": 2,
+      "product engineer": 4,
+      "full[- ]?stack|design engineer|frontend": 3
+    },
+    "geo_ok": "london|dublin|\\buk\\b|remote|emea|europe|paris|berlin|amsterdam|zurich",
+    "geo_gated": "san francisco|new york|seattle|\\bca\\b|\\bny\\b",
+    "senior": "staff|principal|senior|\\blead\\b",
+    "junior": "intern|new grad|entry|junior|apprentice",
+    "bonuses": {"geo_ok": 6, "geo_gated": 2, "junior": -8, "senior": 2}
+  },
+  "shortlist": {
+    "viable_locations": "london|dublin|\\buk\\b|remote|emea|europe|paris|berlin|amsterdam|zurich",
+    "demote_titles": "\\banalyst\\b|program manager|operations|recruit|account executive|sales\\b|marketing",
+    "gated_titles": "\\bphd\\b|research scientist"
+  },
+  "browser": {
+    "bundle_id": "com.google.Chrome"
+  }
+}

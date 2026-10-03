@@ -1,0 +1,6 @@
+{
+  "_comment": "Written by the HUMAN, never by the agent. mode: auto-submit = the agent may press Submit after the gate passes; prefill-only = it fills, verifies and stops.",
+  "quillfeather-fde-eval": {"approved": true, "by": "candidate", "on": "2026-10-01", "mode": "auto-submit"},
+  "lumen-orchard-applied-ai": {"approved": true, "by": "candidate", "on": "2026-10-01", "mode": "auto-submit"},
+  "harbor-pine-data-eng": {"approved": true, "by": "candidate", "on": "2026-10-01", "mode": "prefill-only"}
+}

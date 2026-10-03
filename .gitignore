@@ -1,0 +1,10 @@
+# runtime output (ledger, briefs, outbox, discovered roles)
+run/
+# your real data lives OUTSIDE this repo, or here and ignored
+private/
+*.docx
+*.pdf
+.env
+__pycache__/
+*.pyc
+.DS_Store

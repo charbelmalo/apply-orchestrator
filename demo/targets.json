@@ -1,0 +1,6 @@
+[
+  {"company": "Quillfeather Labs", "ats": "greenhouse", "slug": "quillfeather", "priority": "p1"},
+  {"company": "Lumen Orchard", "ats": "ashby", "slug": "lumen-orchard", "priority": "p2"},
+  {"company": "Harbor & Pine Analytics", "ats": "lever", "slug": "harbor-pine", "priority": "p2"},
+  {"company": "Saltmarsh Robotics", "ats": "bespoke", "slug": "saltmarsh", "priority": "p3"}
+]

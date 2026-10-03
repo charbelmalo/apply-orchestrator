@@ -1,0 +1,48 @@
+{
+  "_comment": "FICTIONAL candidate for the demo. Every name, address and employer here is invented. example.com / example.test domains and 555-01xx numbers are reserved for fiction.",
+  "identity": {
+    "first_name": "Robin",
+    "last_name": "Example",
+    "email": "robin.example@example.com",
+    "phone": "+1 555 0100"
+  },
+  "standard_fields": {
+    "First name": "Robin",
+    "Last name": "Example",
+    "Full name": "Robin Example",
+    "Email": "robin.example@example.com",
+    "Phone": "+1 555 0100",
+    "LinkedIn": "https://linkedin.example.com/in/robin-example",
+    "Website": "https://robin.example.com",
+    "GitHub": "https://code.example.com/robin-example",
+    "Location": "Springfield (open to relocation)",
+    "Current company": "Example Studio Co.",
+    "Current title": "Applied ML Engineer",
+    "Work authorization": "Requires visa sponsorship",
+    "How did you hear about us": "Company careers page",
+    "Years of experience": "6+"
+  },
+  "truthfulness": {
+    "never_claim": {
+      "\\bph\\.?\\s?d\\b|\\bdoctorate\\b": "the candidate does not hold a PhD",
+      "\\bled a team of\\b|\\bmanaged \\d+ (engineers|people)\\b": "never state a team size; the candidate has had no direct reports",
+      "\\b(\\d+|ten)x (faster|speedup|improvement)\\b": "no unmeasured speedup multipliers",
+      "\\bclinical\\b": "the candidate has no clinical authority",
+      "\\b\\d+ (shipped|finished|completed) projects\\b": "never state a project count"
+    }
+  },
+  "answer_rules": {
+    "text": {
+      "^website|portfolio": "https://robin.example.com",
+      "linkedin": "https://linkedin.example.com/in/robin-example",
+      "github": "https://code.example.com/robin-example",
+      "earliest .*start": "Within 30 days of an offer."
+    },
+    "select": {
+      "require visa sponsorship": "Yes",
+      "open to relocation": "Yes",
+      "interviewed .* before": "No"
+    },
+    "legal": "arbitrat|signature|attest"
+  }
+}

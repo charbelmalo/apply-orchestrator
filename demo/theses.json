@@ -1,0 +1,30 @@
+{
+  "quillfeather-fde-eval": {
+    "target_title": "Forward Deployed Engineer, Evaluation Tooling",
+    "predicted_title": "Customer-facing evaluation engineer",
+    "primary": "turns customer complaints into graded test suites",
+    "must_evidence": ["evaluation harness", "customer"],
+    "do_not_lead_with": ["dashboard", "graphics"]
+  },
+  "lumen-orchard-applied-ai": {
+    "target_title": "Applied AI Engineer",
+    "predicted_title": "Agent and retrieval engineer",
+    "primary": "retrieval quality and agent stopping conditions",
+    "must_evidence": ["agent", "retrieval"],
+    "do_not_lead_with": ["dashboard"]
+  },
+  "harbor-pine-data-eng": {
+    "target_title": "Senior Data Engineer",
+    "predicted_title": "Data platform engineer",
+    "primary": "pipelines people trust",
+    "must_evidence": ["contract", "warehouse"],
+    "do_not_lead_with": []
+  },
+  "harbor-pine-ml-platform": {
+    "target_title": "ML Platform Engineer",
+    "predicted_title": "ML platform engineer",
+    "primary": "self-serve training and safe releases",
+    "must_evidence": ["reproduc", "rollback"],
+    "do_not_lead_with": []
+  }
+}

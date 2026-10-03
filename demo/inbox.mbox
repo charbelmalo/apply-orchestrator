@@ -1,0 +1,39 @@
+From no-reply@greenhouse.example Wed Oct 01 10:02:00 2026
+From: Quillfeather Labs <no-reply@greenhouse.example>
+To: robin.example@example.com
+Subject: Thank you for applying to Quillfeather Labs
+Date: Wed, 01 Oct 2026 10:02:00 +0000
+
+Hi Robin, we've received your application for Forward Deployed Engineer, Evaluation Tooling.
+
+From talent@lumen-orchard.example Thu Oct 02 14:30:00 2026
+From: Lumen Orchard Talent <talent@lumen-orchard.example>
+To: robin.example@example.com
+Subject: Lumen Orchard: schedule a chat with the hiring manager
+Date: Thu, 02 Oct 2026 14:30:00 +0000
+
+Hi Robin, could you share your availability next week?
+
+From careers@harbor-pine.example Fri Oct 03 09:15:00 2026
+From: Harbor & Pine Careers <careers@harbor-pine.example>
+To: robin.example@example.com
+Subject: Update on your application
+Date: Fri, 03 Oct 2026 09:15:00 +0000
+
+Thanks for your interest. Unfortunately we've decided not to move forward.
+
+From newsletter@shop.example Fri Oct 03 11:00:00 2026
+From: Example Shop <newsletter@shop.example>
+To: robin.example@example.com
+Subject: Weekend sale starts now
+Date: Fri, 03 Oct 2026 11:00:00 +0000
+
+Not recruiting mail; the tracker must ignore it.
+
+From no-reply@greenhouse.example Mon Aug 10 08:00:00 2026
+From: Old Posting <no-reply@greenhouse.example>
+To: robin.example@example.com
+Subject: Thanks for applying
+Date: Mon, 10 Aug 2026 08:00:00 +0000
+
+Before the cutoff; the tracker must skip it.

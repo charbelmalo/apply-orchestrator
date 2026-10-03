@@ -1,0 +1,16 @@
+{
+  "_comment": "Simulated Ashby-style form. Quirk: the upload button opens a sandboxed, non-native file picker, so the resume never attaches. The gate must stop the run.",
+  "page_title": "Applied AI Engineer @ Lumen Orchard",
+  "confirmation": "Application submitted",
+  "quirks": {"resume_upload": "sandboxed-picker"},
+  "fields": [
+    {"id": "name", "label": "Name", "required": true},
+    {"id": "email", "label": "Email", "required": true},
+    {"id": "resume", "label": "Resume", "type": "file", "required": true},
+    {"id": "phone", "label": "Phone"},
+    {"id": "linkedin", "label": "LinkedIn"},
+    {"id": "location", "label": "Location", "required": true},
+    {"id": "visa", "label": "Do you require visa sponsorship to work in your preferred location?", "required": true},
+    {"id": "extra", "label": "Anything else you'd like to share?", "type": "textarea"}
+  ]
+}
